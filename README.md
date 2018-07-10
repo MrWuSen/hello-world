@@ -1,4 +1,4 @@
 # hello-world
 Hi,everyone!
-It is my first contact with front-end product design, 
-I hope to learn knowledge and improve my programming language.
+
+As a beginner of code, I hope I can learn programming skills on the website and write the source code that can play a role in practical application.
